@@ -1,6 +1,6 @@
 # Hi, I'm Md Arif
 
-I am an M.Tech student in Signal Processing and Communication, and I am interested in wireless communication, SDR, and cognitive radio.
+I am an M.Tech student on Signal Processing and Communication in IIT Tirupati, and I am interested in wireless communication, SDR, and cognitive radio.
 
 ## About me
 
